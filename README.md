@@ -1,2 +1,2 @@
 # RaVe
-Raster and Vectors
+Raster and Vectors Constellations
